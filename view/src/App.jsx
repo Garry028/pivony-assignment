@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className='container mx-auto px-8'>
-      {/* <SurveyConfig /> */}
+      <SurveyConfig />
       <SurveyModal />
     </div>
   )
